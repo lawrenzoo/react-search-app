@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import Start from './component/Start'
+// import Start from './component/Start'
 import Spa from './component/Spa'
 
 class App extends Component {
